@@ -1,4 +1,4 @@
-## Summary
+## Takehiro Takayanagi
 A first-year PhD candidate in engineering with the background of research in natural language processing and graph neural networks.
 Passionate about data science and artificial intelligence technology.
 Experienced with machine / deep learning projects. Gained hands-on experience in various machine learning libraries including scikit-learn, pytorch, pytorch-geometric, huggingface, keras, and tensorflow.
